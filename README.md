@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @edenner
-- 👀 I’m interested in data wrangling, data visualizations, statisical analysis, and building machine learning applications. 
-- My areas of interest are the entertainment industry, healthcare, sports, consumer behavior, risk analysis, and government programs.
-- 🌱 I’m currently learning advanced commands in postgresSQL and accessing databases with Python. 
-- In the back of my mind: I have experience with C and C++ and am hoping to learn more about application building and software development, 
-- particularly in social media and gaming platforms 
-- 💞️ I’m looking to collaborate on data science projects in R or Python
+- I’m interested in statistical analysis, mathematical modeling, and machine learning applications in biology, medicine, pyschology, consumer behavior, social media, and risk analysis
+- I have programming experience in R, Python, SQL, C, and C++
+- I particularly enjoy the data wrangling/data cleaning process and want to keep practicing working with big data
 - 📫 How to reach me: email me at emdenner@gmail.com
 
 <!---
